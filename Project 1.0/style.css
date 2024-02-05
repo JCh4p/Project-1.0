@@ -1,0 +1,20 @@
+html{
+  background-color: black;
+  color: white;
+}
+
+#port-head{
+  background-color: #c3418d;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+a:hover{
+  color: #4dff00;
+  background-color:#1100ff ;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  font-size: 125%;
+}
