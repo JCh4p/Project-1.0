@@ -21,5 +21,10 @@ a:hover{
 }
 
 img{
-  width: 200px
+  max-width: 33%;
+  height: 33%;
+}
+
+#picdesc{
+  font-size: 110%;
 }

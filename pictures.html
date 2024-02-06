@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <head>
   <title>Portfolio Project</title>
@@ -20,6 +21,13 @@
   <div id="pictures">
     <h2>Photography</h2>
     <p>The following pictures are some examples of both my portrait and landscape photos, both edited and un-edited. I have also included some more abstract photos of mine.</p>
-    <img src="image/IMG_2076.jpg" alt="Landscape image overlooking a river from a bridge in the lake district" >
+    <img id="lake1" src="image/IMG_2076.jpg" alt="Landscape image overlooking a river from a bridge in the lake district" >
+    <img src="image/IMG_2092.jpg" alt="Landscape image of a waterfall from a lower viewpoint">
+    <picture>
+      <source media="(max-width: 400px)" srcset="image/IMG_2076.jpg">
+    </picture>
+    <p id="picdesc">These top two images are from a holiday trip i took in the Lake District. I took many picrures on this holiday but these two are my favourite form the trip.</p>
+    <br>
+    <img src="image/IMG_1919.jpg" alt="">
   </div>
 </body>
