@@ -5,7 +5,7 @@ html{
 }
 
 #port-head{
-  background-color: #c3418d;
+  background-color: #bb00ff;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
@@ -22,9 +22,14 @@ a:hover{
 
 img{
   max-width: 33%;
-  height: 33%;
+  max-height: 33%;
 }
 
 #picdesc{
   font-size: 110%;
+}
+
+#japangarden{
+  max-width: 35%;
+  max-height: 35%;
 }
