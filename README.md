@@ -50,11 +50,17 @@ In this project i showcase my photographic work, artwork both digital and physic
 
 ## Acknowledgments
 [w3schools](https://www.w3schools.com)
+
 [StackOverflow](https://stackoverflow.com/)
+
 [FreeCodeCamp](https://www.freecodecamp.org)
+
 [heictojpg](https://heictojpg.com)
+
 [CodersLang](https://coderslang.com)
+
 [Awesome-readme](https://github.com/matiassingers/awesome-readme)
+
 [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
 
 ## Live Link
