@@ -9,6 +9,7 @@ This is my personal portfolio showcasing my differrent styles of photography and
 * Technology used
 * Getting Started
 * acknowledgments
+* Live link
 
 ## Description
 
@@ -30,7 +31,7 @@ In this project i showcase my photographic work, artwork both digital and physic
 
 ## Getting Started
 
-1. Clone my repository: [git clone] (https://github.com/JCh4p/Project-1.0)
+1. Clone my repository: git clone - https://github.com/JCh4p/Project-1.0
 2. Open the repository in your prefered application
 
 ## Acknowledgments
@@ -41,3 +42,6 @@ In this project i showcase my photographic work, artwork both digital and physic
 [CodersLang](https://coderslang.com)
 [Awesome-readme](https://github.com/matiassingers/awesome-readme)
 [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
+
+## Live Link
+https://jch4p.github.io/Project-1.0/
